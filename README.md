@@ -15,7 +15,7 @@ $ git clone https://github.com/TempleOfGod/sms-bomber.git
 # Access
 $ cd sms-bomber
 
-# Install Requirements
+# Run file
 $ python sms.py
 
 ```
