@@ -20,6 +20,6 @@ $ python sms.py
 
 ```
 
-## :⁉️: Update?! ##
+## :thinking: Update?! ##
 
 This version is the first version of this project and attractive and efficient updates will be added to it in the near future
