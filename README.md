@@ -1,23 +1,26 @@
 # sms-bomber
-sms bomber with python (just for iranian num)
+sms bomber with python (just for Iranian num)
 <h2 align="center">
-sms bomber with python (just for iranian num) :octocat:	
+sms bomber with python (just for Iranian num) :octocat:	
 </h2>
 
 
 
 ## :checkered_flag: Starting ##
 
-```bash
 # Clone this project
-$ git clone https://github.com/TempleOfGod/sms-bomber.git
+```bash
+git clone https://github.com/TempleOfGod/sms-bomber.git
+```
 
 # Access
-$ cd sms-bomber
+```bash
+cd sms-bomber
+```
 
 # Run file
-$ python sms.py
-
+```bash
+python sms.py
 ```
 
 ## :thinking: Update?! ##
